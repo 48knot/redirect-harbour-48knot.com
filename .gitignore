@@ -1,2 +1,8 @@
-/CLAUDE.md
-/.claude
+# Claude Code 설정
+.claude
+.claude/
+CLAUDE.md
+AGENTS.md
+.vibe-session.md
+.vibe-rollback
+.prompt_history/
